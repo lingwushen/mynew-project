@@ -21,7 +21,7 @@
     --color-border: 171, 75, 8;
   }
   span{
-    font-size:100px;
+    font-size:100;
   }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
